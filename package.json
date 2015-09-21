@@ -1,0 +1,7 @@
+{
+  "name": "grapheme-splitter",
+  "version": "0.0.1",
+  "description": "Grapheme splitter",
+  "repository": "github.com/orling/grapheme-splitter",
+  "main": "grapheme-splitter.js"
+}
